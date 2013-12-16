@@ -1,4 +1,4 @@
 n-project
 =========
 
-C code assistent
+C code assistant
